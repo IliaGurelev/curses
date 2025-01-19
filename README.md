@@ -1,5 +1,7 @@
 # curses
 
+Сайт создавался просто для повторения пройденного мной материала и эксперементов 
+
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
